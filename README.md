@@ -6,7 +6,7 @@
   <li>🌱 Learning Hono framework and getting deep into NestJS</li>
 </ul> 
 
-<h2 align="center">
+<h2 align="left">
   👷🏼 Here are some technologies I use on a daily basis:
 </h2>
 <p align="center">
