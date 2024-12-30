@@ -2,6 +2,15 @@
 
 <h3 align="left"> 👨🏻‍💻 About Me </h3>
 <ul>
-  <li>🔭 I’m currently working on a Ecommerce project for C&A - Rindus as a Senior Backend Enginner</li>
-  <li>🌱 I’m currently learning Hono and getting deep into NestJS</li>
+  <li>🔭 Working on a Ecommerce project for C&A - Rindus as a Senior Backend Enginner</li>
+  <li>🌱 Learning Hono framework and getting deep into NestJS</li>
 </ul> 
+
+<h2 align="center">
+  👷🏼 Here are some technologies I use on a daily basis:
+</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=terraform,aws,docker,nestjs,postgres,dynamodb,nodejs,cloudflare" />
+  </a>
+</p>
