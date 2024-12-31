@@ -7,9 +7,9 @@
   <li>🎢 I love having time with family, doing sports and playing video games</li>
 </ul> 
 
-<h2 align="left">
+<h3 align="left">
   👷🏼 Here are some technologies I use on a daily basis:
-</h2>
+</h3>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,dynamodb,aws,cloudflare,docker,terraform" />
