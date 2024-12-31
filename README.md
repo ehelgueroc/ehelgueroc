@@ -4,6 +4,7 @@
 <ul>
   <li>🔭 Working on a Ecommerce project for C&A - Rindus as a Senior Backend Enginner</li>
   <li>🌱 Learning Hono framework and getting deep into NestJS</li>
+  <li>🎢 I love having time with family, doing sports and playing video games</li>
 </ul> 
 
 <h2 align="left">
@@ -11,6 +12,6 @@
 </h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=terraform,aws,docker,nestjs,postgres,dynamodb,nodejs,cloudflare" />
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,dynamodb,aws,cloudflare,docker,terraform" />
   </a>
 </p>
