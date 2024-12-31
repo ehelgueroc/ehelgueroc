@@ -9,7 +9,7 @@
 <h2 align="left">
   👷🏼 Here are some technologies I use on a daily basis:
 </h2>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=terraform,aws,docker,nestjs,postgres,dynamodb,nodejs,cloudflare" />
   </a>
